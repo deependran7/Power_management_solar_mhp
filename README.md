@@ -1,4 +1,7 @@
 # Power_management_solar_mhp
+
+![Figure](Figure_1-1.jpg)
+
 The simulink files used in the article title "Power Sharing in Solar PV: Microhydro Hybrid System Using Power Angle Control Strategy"
 Consider citation:
 
